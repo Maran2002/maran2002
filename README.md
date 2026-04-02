@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-System%20Design-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-Madurai%2C%20India-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Lives-Chennai%2C%20India-success?style=flat-square" />
   <img src="https://img.shields.io/badge/Passion-Performance%20Optimization-critical?style=flat-square" />
 </p>
 
@@ -36,41 +36,33 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const elamaran = {
-    role: "Full Stack Developer",
-    location: "Madurai, India",
-    expertise: ["MERN Stack", "Microservices", "Mobile Development"],
-    currentFocus: "Building scalable distributed systems",
-    lifePhilosophy: "Code with purpose, build with passion",
-    
-    workingOn: ["E-commerce platforms", "Real-time data apps", "Mobile marketplaces"],
-    learning: ["System design patterns", "Performance optimization", "Cloud architecture"],
-    askMeAbout: ["API design", "Payment integrations", "Microservices"],
-    
-    funFact: "I turn coffee into production-ready code ☕️ → 💻"
-};
-```
-
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-### 🎯 What I Do
+### 💼 Full Stack Developer | System Architect
 
-- 🏗️ Build **scalable web & mobile platforms** from ground up
-- ⚙️ Design **microservice architectures** for high-performance systems
-- 🔌 Integrate **payment gateways, APIs & real-time services**
-- 📱 Create **cross-platform mobile apps** with React Native
-- 🚀 Optimize **database queries & system performance**
-- 🧠 Solve complex problems with **clean, maintainable code**
+**📍 Based in:** Chennai, India  
+**🎯 Specialization:** MERN Stack • Microservices • Mobile Development  
+**💡 Philosophy:** Code with purpose, build with passion
+
+### 🚀 What I Build
+
+- 🏗️ **Scalable web & mobile platforms** from ground up
+- ⚙️ **Microservice architectures** for high-performance systems
+- 🔌 **Payment gateway integrations** & real-time services
+- 📱 **Cross-platform mobile apps** with React Native & Expo
+- 🗄️ **Optimized database systems** for lightning-fast queries
+- 🧩 **Clean, maintainable code** that solves complex problems
 
 ### 🌟 Currently Exploring
 
-```bash
-> Distributed Systems Architecture
-> Advanced React Patterns
-> Database Optimization Strategies
-> CI/CD Pipeline Engineering
-```
+- 🏛️ **Distributed Systems Architecture** - Building for scale
+- ⚛️ **Advanced React Patterns** - Performance & efficiency
+- 📊 **Database Optimization** - Query tuning & indexing strategies
+- 🔄 **CI/CD Pipeline Engineering** - Automated deployment workflows
+
+### 💬 Ask Me About
+
+`API Design` • `Payment Integrations` • `Microservices` • `System Architecture` • `Performance Optimization`
 
 ---
 
@@ -137,40 +129,6 @@ const elamaran = {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elamaran-A&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9"/>
-
-<!-- GitHub Streak Stats -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Elamaran-A&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=F59E0B&currStreakLabel=3B82F6"/>
-
-</div>
-
-<div align="center">
-
-<!-- Top Languages Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamaran-A&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8"/>
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Elamaran-A&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img src="https://github-profile-trophy.vercel.app/?username=Elamaran-A&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
 
 </div>
 
