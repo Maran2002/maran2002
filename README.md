@@ -3,7 +3,6 @@
 <!-- Hero Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elamaran%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<!-- Animated Typing Effect -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Microservices+Architect;Mobile+App+Developer;Building+Scalable+Systems" alt="Typing SVG" /></a>
 
 <p align="center">
