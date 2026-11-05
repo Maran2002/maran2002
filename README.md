@@ -1,164 +1,192 @@
+# 🟢 Elamaran A
+
 <div align="center">
 
-<!-- Hero Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elamaran%20A&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<!-- Emerald Green Hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080D0A,50:064E3B,100:35E58A&height=200&section=header&text=ELAMARAN%20A&fontSize=48&fontColor=A6F5C7&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20Problem%20Solver&descAlignY=58&descSize=17"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;MERN+Stack+Specialist;Microservices+Architect;Mobile+App+Developer;Building+Scalable+Systems" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=35E58A&center=true&vCenter=true&random=false&width=700&lines=Building+Scalable+Web+Applications;Crafting+Clean+%26+Efficient+Solutions;Exploring+System+Design;Solving+Problems+with+JavaScript;Turning+Ideas+Into+Products" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-System%20Design-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-Chennai%2C%20India-success?style=flat-square" />
-  <img src="https://img.shields.io/badge/Passion-Performance%20Optimization-critical?style=flat-square" />
-</p>
+<br/>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/elamaran-a-13804225b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:elamaranvikki@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Elamaran-A">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-35E58A?style=for-the-badge&labelColor=080D0A"/>
+<img src="https://img.shields.io/badge/MERN-Stack-A6F5C7?style=for-the-badge&labelColor=080D0A"/>
+<img src="https://img.shields.io/badge/Chennai-India-35E58A?style=for-the-badge&labelColor=080D0A"/>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Elamaran-A&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
+<br/><br/>
+
+<a href="https://github.com/Elamaran-A">
+<img src="https://komarev.com/ghpvc/?username=Elamaran-A&label=PROFILE+VIEWS&color=35E58A&style=flat-square" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 💼 Full Stack Developer | System Architect
+```javascript
+const maran = {
+  role: "Full Stack Developer",
+  location: "Chennai, India",
+  stack: ["React", "Node.js", "Express", "MongoDB"],
+  languages: ["JavaScript", "PHP", "Python"],
+  interests: [
+    "System Design",
+    "Problem Solving",
+    "Performance Optimization",
+    "Scalable Applications"
+  ],
+  mindset: "Learn → Build → Optimize → Repeat"
+};
+```
 
-**📍 Based in:** Chennai, India  
-**🎯 Specialization:** MERN Stack • Microservices • Mobile Development  
-**💡 Philosophy:** Code with purpose, build with passion
+- 🚀 Building real-world web & mobile applications
+- ⚛️ Developing modern interfaces with React
+- 🔧 Designing backend APIs and application architectures
+- 📱 Exploring cross-platform development with React Native
+- 🧠 Strengthening DSA and algorithmic thinking
+- 🌱 Continuously learning, experimenting, and shipping
 
-### 🚀 What I Build
-
-- 🏗️ **Scalable web & mobile platforms** from ground up
-- ⚙️ **Microservice architectures** for high-performance systems
-- 🔌 **Payment gateway integrations** & real-time services
-- 📱 **Cross-platform mobile apps** with React Native & Expo
-- 🗄️ **Optimized database systems** for lightning-fast queries
-- 🧩 **Clean, maintainable code** that solves complex problems
-
-### 🌟 Currently Exploring
-
-- 🏛️ **Distributed Systems Architecture** - Building for scale
-- ⚛️ **Advanced React Patterns** - Performance & efficiency
-- 📊 **Database Optimization** - Query tuning & indexing strategies
-- 🔄 **CI/CD Pipeline Engineering** - Automated deployment workflows
-
-### 💬 Ask Me About
-
-`API Design` • `Payment Integrations` • `Microservices` • `System Architecture` • `Performance Optimization`
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## `> tech_stack`
 
 <div align="center">
 
-### Frontend Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,tailwind" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 
-### Mobile Development
-<p>
-<img src="https://skillicons.dev/icons?i=react" title="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" height="48"/>
-</p>
-
-### Backend & APIs
-<p>
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,flask" />
-</p>
 
 ### Databases
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
 
-### Infrastructure & DevOps
-<p>
-<img src="https://skillicons.dev/icons?i=docker,nginx" />
-<img src="https://img.shields.io/badge/Apache%20Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white" height="48"/>
-</p>
+### Mobile Development
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://img.shields.io/badge/Expo-080D0A?style=for-the-badge&logo=expo&logoColor=35E58A"/>
 
-### Tools & Platforms
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman" />
 
 </div>
 
 ---
 
-## 🔌 Integration Experience
+## `> github_stats`
 
 <div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elamaran-A&show_icons=true&hide_border=true&bg_color=080D0A&title_color=35E58A&icon_color=A6F5C7&text_color=C9D1D9&ring_color=35E58A" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamaran-A&layout=compact&hide_border=true&bg_color=080D0A&title_color=35E58A&text_color=C9D1D9"/>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Elamaran-A&theme=dark&hide_border=true&background=080D0A&stroke=064E3B&ring=35E58A&fire=35E58A&currStreakLabel=A6F5C7&sideLabels=A6F5C7&currStreakNum=35E58A&sideNums=C9D1D9&dates=8B949E"/>
+
+</div>
+
+---
+
+## `> contribution_activity`
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elamaran-A&bg_color=080D0A&color=A6F5C7&line=35E58A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## `> what_i_build`
 
 <table>
 <tr>
-<td align="center" width="33%">
-<h3>💳 Payments</h3>
-<img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" /><br/>
-<img src="https://img.shields.io/badge/Cashfree-00BAF2?style=for-the-badge&logo=cashfree&logoColor=white" />
+<td width="50%">
+
+### ⚡ Full Stack Applications
+
+Building end-to-end applications with React, Node.js, Express, and databases.
+
 </td>
-<td align="center" width="33%">
-<h3>📧 Communication</h3>
-<img src="https://img.shields.io/badge/EmailJS-FF6B35?style=for-the-badge&logo=minutemailer&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Fast2SMS-00C853?style=for-the-badge&logo=googlemessages&logoColor=white" />
+<td width="50%">
+
+### 🏗️ Backend Systems
+
+Designing APIs, authentication, database structures, and scalable application logic.
+
 </td>
-<td align="center" width="33%">
-<h3>🗺️ Location</h3>
-<img src="https://img.shields.io/badge/Google_Maps_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Geolocation-34A853?style=for-the-badge&logo=google&logoColor=white" />
+</tr>
+<tr>
+<td width="50%">
+
+### 📱 Mobile Applications
+
+Exploring React Native and Expo for cross-platform mobile experiences.
+
+</td>
+<td width="50%">
+
+### 💳 SaaS Products
+
+Developing business-oriented software, billing systems, and multi-tenant applications.
+
 </td>
 </tr>
 </table>
 
+---
+
+## `> currently_focused_on`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-35E58A?style=flat-square&logo=javascript&logoColor=080D0A"/>
+<img src="https://img.shields.io/badge/Node.js-35E58A?style=flat-square&logo=node.js&logoColor=080D0A"/>
+<img src="https://img.shields.io/badge/System_Design-A6F5C7?style=flat-square"/>
+<img src="https://img.shields.io/badge/DSA-35E58A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Performance-35E58A?style=flat-square"/>
+
+</div>
+
+- Deepening JavaScript and backend engineering fundamentals
+- Practicing Data Structures & Algorithms
+- Improving application architecture and system design
+- Building production-oriented projects
+- Exploring deployment, containerization, and infrastructure
+
+---
+
+## `> connect`
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/elamaran-a-13804225b/">
+<img src="https://img.shields.io/badge/LinkedIn-35E58A?style=for-the-badge&logo=linkedin&logoColor=080D0A"/>
+</a>
+
+<a href="mailto:elamaranvikki@gmail.com">
+<img src="https://img.shields.io/badge/Email-A6F5C7?style=for-the-badge&logo=gmail&logoColor=080D0A"/>
+</a>
+
+<a href="https://github.com/Elamaran-A">
+<img src="https://img.shields.io/badge/GitHub-080D0A?style=for-the-badge&logo=github&logoColor=35E58A"/>
+</a>
+
 </div>
 
 ---
 
-## 💭 Developer Quote
-
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" width="600"/>
+### `Building something meaningful, one commit at a time.`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:35E58A,50:064E3B,100:080D0A&height=120&section=footer"/>
 
 </div>
-
----
-
-## 🤝 Let's Connect & Build Together
-
-<div align="center">
-
-**💼 Open to collaborating on innovative projects**  
-**🚀 Available for freelance opportunities**  
-**📚 Always learning, always building**
-
-<p>
-<a href="https://www.linkedin.com/in/elamaran-a-13804225b/"><img src="https://img.shields.io/badge/-Let's_Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:elamaranvikki@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-</p>
-
-### 🎯 "Building scalable systems, one commit at a time"
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
