@@ -139,6 +139,10 @@ Developing business-oriented software, billing systems, and multi-tenant applica
 
 <div align="center">
 
+<a href="https://elamaran-a.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-35E58A?style=for-the-badge&logo=web&logoColor=080D0A"/>
+</a>
+
 <a href="https://www.linkedin.com/in/elamaran-a-13804225b/">
 <img src="https://img.shields.io/badge/LinkedIn-35E58A?style=for-the-badge&logo=linkedin&logoColor=080D0A"/>
 </a>
