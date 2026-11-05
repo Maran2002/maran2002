@@ -1,5 +1,3 @@
-# 🟢 Elamaran A
-
 <div align="center">
 
 <!-- Emerald Green Hero -->
@@ -78,32 +76,6 @@ const maran = {
 
 ---
 
-## `> github_stats`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elamaran-A&show_icons=true&hide_border=true&bg_color=080D0A&title_color=35E58A&icon_color=A6F5C7&text_color=C9D1D9&ring_color=35E58A" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elamaran-A&layout=compact&hide_border=true&bg_color=080D0A&title_color=35E58A&text_color=C9D1D9"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Elamaran-A&theme=dark&hide_border=true&background=080D0A&stroke=064E3B&ring=35E58A&fire=35E58A&currStreakLabel=A6F5C7&sideLabels=A6F5C7&currStreakNum=35E58A&sideNums=C9D1D9&dates=8B949E"/>
-
-</div>
-
----
-
-## `> contribution_activity`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Elamaran-A&bg_color=080D0A&color=A6F5C7&line=35E58A&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-
-</div>
-
----
-
 ## `> what_i_build`
 
 <table>
@@ -175,7 +147,7 @@ Developing business-oriented software, billing systems, and multi-tenant applica
 <img src="https://img.shields.io/badge/Email-A6F5C7?style=for-the-badge&logo=gmail&logoColor=080D0A"/>
 </a>
 
-<a href="https://github.com/Elamaran-A">
+<a href="https://github.com/Maran2002">
 <img src="https://img.shields.io/badge/GitHub-080D0A?style=for-the-badge&logo=github&logoColor=35E58A"/>
 </a>
 
